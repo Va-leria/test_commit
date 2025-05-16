@@ -1,4 +1,4 @@
 acu_nav_ui: image1
 acu_ui-f: image1
-replicas: 1
+replicas: 2
 name: version1
